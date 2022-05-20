@@ -1,0 +1,9 @@
+{
+  "name": "custom-org-name-icon",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public",
+    "directory": "../../dist/packages/icon"
+  },
+  "gitHead": "6d53fd852ee363cac4fb43baf7429b174dadb9fa"
+}
