@@ -15,9 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@custom-org-name/button": ["packages/button/src/index.ts"],
-      "@custom-org-name/icon": ["packages/icon/src/index.ts"],
-      "@custom-org-name/composite": ["packages/composite/src/index.ts"]
+      "custom-org-name-button": ["packages/button/src/index.ts"],
+      "custom-org-name-icon": ["packages/icon/src/index.ts"],
+      "custom-org-name-composite": ["packages/composite/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
