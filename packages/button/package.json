@@ -4,5 +4,6 @@
   "publishConfig": {
     "access": "public",
     "directory": "../../dist/packages/button"
-  }
+  },
+  "gitHead": "8c2da7f4a22f3f30fb0703a8e168d450cb03bece"
 }
