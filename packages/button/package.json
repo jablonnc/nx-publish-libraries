@@ -1,5 +1,5 @@
 {
-  "name": "@custom-org-name/button",
+  "name": "custom-org-name-button",
   "version": "0.0.7",
   "publishConfig": {
     "access": "public",
