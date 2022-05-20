@@ -1,0 +1,9 @@
+{
+  "name": "custom-org-name-composite",
+  "version": "0.0.3",
+  "publishConfig": {
+    "access": "public",
+    "directory": "../../dist/packages/composite"
+  },
+  "gitHead": "6d53fd852ee363cac4fb43baf7429b174dadb9fa"
+}
