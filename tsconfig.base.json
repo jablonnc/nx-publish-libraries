@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@tenable/button": ["packages/button/src/index.ts"]
+      "@custom-org-name/button": ["packages/button/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

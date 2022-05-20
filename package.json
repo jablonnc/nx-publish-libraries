@@ -1,9 +1,10 @@
 {
-  "name": "tenable",
+  "name": "custom-org-name",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-      "lerna": "./node_modules/.bin/lerna"
+      "lerna": "./node_modules/.bin/lerna",
+      "version": "npm run affected:build"
   },
   "private": true,
   "devDependencies": {

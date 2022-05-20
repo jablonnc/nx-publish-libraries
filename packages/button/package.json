@@ -1,4 +1,8 @@
 {
-  "name": "@tenable/button",
-  "version": "0.0.1"
+  "name": "@custom-org-name/button",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public",
+    "directory": "../../dist/libs/button"
+  }
 }
